@@ -1,0 +1,6 @@
+/home/muxi/workspace/muxi/proj_hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/muxi/workspace/muxi/proj_hello_world/build/CMakeFiles/edit_cache.dir
+/home/muxi/workspace/muxi/proj_hello_world/build/CMakeFiles/a.out.dir
+/home/muxi/workspace/muxi/proj_hello_world/build/hello/CMakeFiles/rebuild_cache.dir
+/home/muxi/workspace/muxi/proj_hello_world/build/hello/CMakeFiles/edit_cache.dir
+/home/muxi/workspace/muxi/proj_hello_world/build/hello/CMakeFiles/hello.dir
